@@ -1,1 +1,0 @@
-c:\Python373_cpu\python.exe yolo_video.py --input 1
